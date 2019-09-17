@@ -1,0 +1,31 @@
+[
+{
+  "model": "webapp.tracker",
+  "pk": 22,
+  "fields": {
+    "title": "Project_1",
+    "text": "Python",
+    "status": "new",
+    "deadline": "2019-09-13"
+  }
+},
+
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$iB0cWoyJ1PUg$4ruEY/z5pTSf8gTfKqLI8QDTjj2KRB5cx+Nh2ZWO1ec=",
+    "last_login": "2019-09-06T05:01:07.523Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2019-09-06T05:00:47.025Z",
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]
